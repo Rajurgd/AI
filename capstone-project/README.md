@@ -17,9 +17,6 @@ Using F1 Score. Its a harmonic mean of precision and recall.
 </p>
 
 ## Data
-This is part of DPhi bootcamp and details of this specific problem can be found in below link:
-  
-  https://dphi.tech/practice/challenge/54#data
   
 Training and test data are available in the links below:
 
